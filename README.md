@@ -28,9 +28,8 @@
 Consite em duas páginas (Home e About) que tem como propósito mostra alguns produtos e apresentar a aiiiifood.
 
 
-### 🧰Instalação
-#### Caso 1: Apenas quero visualizar  
-- é necessário ter um banco rodando, para facilitar instale  o xampp [xampp](https://www.apachefriends.org/pt_br/index.html).
+### 🧰Instalação 
+- é necessário ter um banco rodando, para facilitar instale  o [xampp](https://www.apachefriends.org/pt_br/index.html).
   - após a instalação, incialize o mysql. 
 - vá até o passo 🚀 Go 🚀 para continuar.
 
