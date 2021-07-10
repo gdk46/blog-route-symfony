@@ -38,6 +38,7 @@ Consite em duas páginas (Home e About) que tem como propósito mostra alguns pr
 - MySql 5.4 ou >
 - Composer
 - PHP 7.4 ou >
+- Symfony
 
 #### 🚀 Go 🚀
 Utilize esse comando para clonar o reposiótio caso deseje o código fonte:
