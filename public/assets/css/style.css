@@ -1,0 +1,67 @@
+nav {
+    background-color: #ffe600;
+    height: 50px;
+}
+
+nav .container-fluid {}
+nav .container-fluid .navbar-brand {
+    font-weight: 600;
+}
+
+#banner {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh - 50px);
+    position: relative;
+}
+
+#banner .row,
+#banner .row .content-banner {
+    height: 100%;
+}
+
+#banner .row .content-banner h1 {
+    font-size: 5rem;
+    color: #ffe600;
+}
+
+#banner .row .content-banner p {
+    font-size: 2rem;
+    color: #ff6000;
+}
+
+#product {
+    height: 100vh;
+}
+
+#product .row{}
+#product .row .content-product-title {
+    padding-top: 4rem;
+    text-align: center;
+}
+
+#product .row .content-product-title h1 {
+    color: #182120;
+}
+
+#product .row .content-product-itens {
+    padding-top: 4rem;
+}
+
+#product .row .content-product-itens .row {}
+#product .row .content-product-itens .row div {}
+#product .row .content-product-itens .row div .card {
+    border: none;
+}
+
+#product .row .content-product-itens .row div .card .card-body img {
+    height: 400px;
+    width: 400px;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: .5rem;
+}

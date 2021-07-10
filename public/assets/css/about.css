@@ -1,0 +1,43 @@
+nav {
+    background-color: #ffe600;
+    height: 50px;
+}
+
+nav .container-fluid {}
+nav .container-fluid .navbar-brand {
+    font-weight: 600;
+}
+
+#about {
+    height: calc(100vh - 50px);
+}
+
+#about .row{}
+#about .row .content-about-title {
+    padding-top: 1rem;
+    text-align: center;
+}
+
+#about .row .content-about-title h1 {
+    color: #182120;
+}
+
+#about .row .content-about-itens {
+    padding-top: 4rem;
+}
+
+#about .row .content-about-itens .row {}
+#about .row .content-about-itens .row div {}
+#about .row .content-about-itens .row div .card {
+    border: none;
+}
+
+#about .row .content-about-itens .row div .card .card-body img {
+    height: 400px;
+    width: 400px;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: .5rem;
+}
