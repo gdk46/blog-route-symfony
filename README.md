@@ -25,7 +25,7 @@
 ![Landing Page](/doc/preview.png)
 
 ### 🏁Sobre
-Consite em duas páginas (Home e About) que tem como propósito mostra alguns produtos e apresentar a aiiiifood.
+Consiste em duas páginas (Home e About) que tem como propósito mostra alguns produtos e apresentar a aiiiifood.
 
 
 ### 🧰Instalação 
@@ -41,7 +41,7 @@ Consite em duas páginas (Home e About) que tem como propósito mostra alguns pr
 - Symfony
 
 #### 🚀 Go 🚀
-Utilize esse comando para clonar o reposiótio caso deseje o código fonte:
+Utilize esse comando para clonar o repositório caso deseje o código fonte:
 ```GIT
 git clone https://github.com/gdk46/blog-route-symfony.git
 ```
